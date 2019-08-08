@@ -1,5 +1,6 @@
 ### macOS Stuff ###
 .DS_Store
 
-# Ignore archetype until I customize
+# Ignore things I haven't yet personalized
 hugo/archetypes
+hugo/themes
