@@ -1,0 +1,38 @@
+baseURL = "localhost:1313"
+languageCode = "en-us"
+title = "Zach Gorman"
+theme = "hugo-lodi-theme"
+
+[params]
+    theme_color = "#574CDD"
+    description = "Portfolio of Alexis Collado, UX Designer"
+    description_photo = "portfolio.jpg"
+    favicon = "favicon.png"
+    logo = "logo.png"
+    email = "gorman.zacharyj@gmail.com"
+    twitter = "GoForItMLR"
+    linkedin = "https://www.linkedin.com/in/zachary-gorman-111247107"
+    github = "ZachAttackMLR"
+
+[params.nav]
+    enable = true
+
+[params.hero]
+    enable = true
+    avatar = "zjg.jpg"
+    subtitle = "Zach Gorman"
+    hero_right = ["**Studying Computer Science at Iowa State University after interning at P&G on the Security Architecture and Engineering team.**", "Summer 2019 was my second summer interning on P&G's Security Architecture and Engineering Team, and between these two internships I was working as a Full-Stack Developer for [Bit Capital Group](https://www.bitcap.co)", "When I'm not working, you'll find me reading anything from Non-Ficton to Fantasy, starting a new programming project, listening to a either a podcast or music, or doing school work.", "I'm currently finishing my Bachelor's degree in Computer Science at Iowa State University and am expecting to graduate in May 2020."]
+    resume = "ZacharyGormanOfficialResume.pdf"
+
+[params.recent_reads_listens]
+    enable = false
+    title = "Recent Reads/Listens"
+    subtitle = "Selected Works"
+
+[params.my_projects]
+    enable = false
+    title = "My Projects"
+    subtitle = "For Both School and Fun"
+
+[params.footer]
+    enable = false
