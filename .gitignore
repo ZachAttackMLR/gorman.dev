@@ -1,8 +1,5 @@
 ### macOS Stuff ###
 .DS_Store
 
-# Ignore Gradle project-specific cache directory
-.gradle
-
-# Ignore Gradle build output directory
-build
+# Ignore archetype until I customize
+hugo/archetypes
