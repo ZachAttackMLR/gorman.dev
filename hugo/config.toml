@@ -1,4 +1,4 @@
-baseURL = "localhost:1313"
+baseURL = "https://gorman.dev"
 languageCode = "en-us"
 title = "Zach Gorman"
 theme = "hugo-lodi-theme"
@@ -21,7 +21,7 @@ theme = "hugo-lodi-theme"
     enable = true
     avatar = "zjg.jpg"
     subtitle = "Zach Gorman"
-    hero_right = ["**Studying Computer Science at Iowa State University after interning at P&G on the Security Architecture and Engineering team.**", "Summer 2019 was my second summer interning on P&G's Security Architecture and Engineering Team, and between these two internships I was working as a Full-Stack Developer for [Bit Capital Group](https://www.bitcap.co)", "When I'm not working, you'll find me reading anything from Non-Ficton to Fantasy, starting a new programming project, listening to a either a podcast or music, or doing school work.", "I'm currently finishing my Bachelor's degree in Computer Science at Iowa State University and am expecting to graduate in May 2020."]
+    hero_right = ["**Studying Computer Science at Iowa State University after interning at P&G on the Security Architecture and Engineering team.**", "Summer 2019 was my second summer interning on P&G's Security Architecture and Engineering Team, and between these two internships I was working as a Full-Stack Developer for [Bit Capital Group](https://www.bitcap.co)", "When I'm not working, you'll find me reading anything from non-ficton to fantasy, starting a new programming project, listening to a either a podcast or music, or doing school work.", "I'm currently finishing my Bachelor's degree in Computer Science at Iowa State University and am expecting to graduate in May 2020."]
     resume = "ZacharyGormanOfficialResume.pdf"
 
 [params.process]
@@ -35,4 +35,4 @@ theme = "hugo-lodi-theme"
     subtitle = "For Both School and Fun"
 
 [params.footer]
-    enable = true
+    enable = false
