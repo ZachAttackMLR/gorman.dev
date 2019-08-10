@@ -1,5 +1,5 @@
 ### macOS Stuff ###
 .DS_Store
 
-# Ignore things I haven't yet personalized
-hugo/archetypes
+# Ignoring the build that's uploaded to Hostinger
+hugo/public
