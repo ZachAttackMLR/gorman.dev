@@ -1,0 +1,6 @@
+### macOS Stuff ###
+.DS_Store
+
+# Ignoring the build that's uploaded to Hostinger
+hugo/public
+
