@@ -2,10 +2,11 @@ baseURL = "https://gorman.dev"
 languageCode = "en-us"
 title = "Zach Gorman"
 theme = "hugo-lodi-theme"
+enableRobotsTXT = true
 
 [params]
     theme_color = "#778899"
-    description = "Portfolio of Alexis Collado, UX Designer"
+    description = "Personal website for Zachary Gorman"
     description_photo = "portfolio.jpg"
     favicon = "logo.png"
     logo = "logo.png"
